@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /favicon.ico
 
-Sitemap:http://christy0118.github.io
+Sitemap:http://christy0118.github.io/sitemap.xml
