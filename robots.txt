@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /favicon-20190326043735297.ico
+Disallow: /favicon.ico
 
 Sitemap:http://christy0118.github.io
